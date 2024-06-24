@@ -1,7 +1,11 @@
 <h1 align="center">I'm Pronay Debnath</h1>
+<h3 align="center">Eager to contribute to a dynamic work environment by continuously learning, improving, prob- lem solving and effectively communicating with the goal of aiding the growth and success of the software development sector.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronay2021&label=Profile%20views&color=0e75b6&style=flat" alt="pronay2021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pronay2021" alt="pronay2021" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/pronaydebn79750" target="blank"><img src="https://img.shields.io/twitter/follow/pronaydebn79750?logo=twitter&style=for-the-badge" alt="pronaydebn79750" /></a> </p>
 
 - 🌱 I’m currently learning **MLOps**
 
@@ -9,8 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pronay-debnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pronay-debnath/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pronaydebnath.pronaydebnath.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pronaydebnath.pronaydebnath.7/" height="30" width="40" /></a>
+<a href="https://twitter.com/pronaydebn79750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pronaydebn79750" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pronay-debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pronay-debnath" height="30" width="40" /></a>
+<a href="https://kaggle.com/pronaydebnath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pronaydebnath1" height="30" width="40" /></a>
+<a href="https://fb.com/pronaydebnath.pronaydebnath.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pronaydebnath.pronaydebnath.7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pronaydebnath99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pronaydebnath99" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pronay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pronay99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
