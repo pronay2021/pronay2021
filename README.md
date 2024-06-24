@@ -1,5 +1,5 @@
 <h1 align="center">I'm Pronay Debnath</h1>
-<h3 align="center">Eager to contribute to a dynamic work environment by continuously learning, improving, prob- lem solving and effectively communicating with the goal of aiding the growth and success of the software development sector.</h3>
+<h3 align="center">Eager to contribute to a dynamic work environment by continuously learning, improving, prob- lem solving and effectively communicating with the goal of aiding the growth and success of the ML development sector.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronay2021&label=Profile%20views&color=0e75b6&style=flat" alt="pronay2021" /> </p>
 
