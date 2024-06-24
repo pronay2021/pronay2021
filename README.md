@@ -1,7 +1,11 @@
-### Hi there 👋, I am Pronay Debnath
+###I am Pronay Debnath
 Eager to contribute to a dynamic work environment by continuously learning, improving, problem solving and effectively communicating with the goal of aiding the growth and success of the software development sector.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: 
+- Programming: C/C++, Java(OOP), Python, PHP
+- Database: Mysql, SQLPLUS, Microsoft SQL, Firebase
+- Machine Learning libraries: Pandas, Numpy, Scikit-Learn
+- Miscellaneous: HTML, CSS, Bootstrap
 
 - 🌱 I’m currently learning MLOps 
 - 📫 How to reach me: pronaydebnath99@gmail.com 
